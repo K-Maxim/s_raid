@@ -1,4 +1,4 @@
-from rest_framework.generics import CreateAPIView, ListAPIView, RetrieveAPIView
+from rest_framework.generics import CreateAPIView, ListAPIView
 
 from framework.models import FrameworkModel
 from framework.serializers import FrameworkSerializer
